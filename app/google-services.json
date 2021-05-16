@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "337994230892",
+    "project_id": "social-media-integration-dba2f",
+    "storage_bucket": "social-media-integration-dba2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337994230892:android:784ed0381a4ce3fca1fc49",
+        "android_client_info": {
+          "package_name": "com.asadevelopers.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337994230892-pqe1o4s0v6adhvkppbacv2ph303vkipu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpZhtIRgULynRwbQnbUhhQEG2ZNhAqGuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337994230892-pqe1o4s0v6adhvkppbacv2ph303vkipu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337994230892:android:556a2122ffd2c6f4a1fc49",
+        "android_client_info": {
+          "package_name": "com.atharva.socialintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337994230892-pqe1o4s0v6adhvkppbacv2ph303vkipu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpZhtIRgULynRwbQnbUhhQEG2ZNhAqGuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337994230892-pqe1o4s0v6adhvkppbacv2ph303vkipu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
